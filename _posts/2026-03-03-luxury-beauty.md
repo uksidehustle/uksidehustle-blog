@@ -33,17 +33,17 @@ Now: £24,000/month
 
 ## 🏆 **TOP PRODUCTS - CUSTOMER FAVORITES**
 
-### **🥇 [Chanel Perfume - 10,247 REVIEWS](https://amazon.co.uk/dp/B001A7N5F2?tag=ukautomation-21)**
+### **🥇 [Chanel Perfume - 10,247 REVIEWS](https://amazon.co.uk/dp/B08PQ2KWHS?tag=ukautomation-21)**
 - **⭐ Rating:** 4.9/5 (10,247 reviews)
 - **💰 Commission:** 20% = £23/sale
 - **🎯 Monthly:** 20 sales = £460
 
-### **🥈 [La Mer Cream - 8,912 REVIEWS](https://amazon.co.uk/dp/B000C1W6J2?tag=ukautomation-21)**
+### **🥈 [La Mer Cream - 8,912 REVIEWS](https://amazon.co.uk/dp/B08C1WRH1Z?tag=ukautomation-21)**
 - **⭐ Rating:** 4.8/5 (8,912 reviews)
 - **💰 Commission:** 20% = £37/sale
 - **🎯 Monthly:** 15 sales = £555
 
-### **🥉 [Dyson Airwrap - 15,328 REVIEWS](https://amazon.co.uk/dp/B09FRC56K7?tag=ukautomation-21)**
+### **🥉 [Dyson Airwrap - 15,328 REVIEWS](https://amazon.co.uk/dp/B09B8N49Q3?tag=ukautomation-21)**
 - **⭐ Rating:** 4.7/5 (15,328 reviews)
 - **💰 Commission:** 10% = £49.90/sale
 - **🎯 Monthly:** 10 sales = £499
