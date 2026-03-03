@@ -43,7 +43,7 @@ Now: £24,000/month
 - **💰 Commission:** 20% = £37/sale
 - **🎯 Monthly:** 15 sales = £555
 
-### **🥉 [Dyson Airwrap - 15,328 REVIEWS](https://amazon.co.uk/dp/B07K1P6K7P?tag=ukautomation-21)**
+### **🥉 [Dyson Airwrap - 15,328 REVIEWS](https://amazon.co.uk/dp/B09FRC56K7?tag=ukautomation-21)**
 - **⭐ Rating:** 4.7/5 (15,328 reviews)
 - **💰 Commission:** 10% = £49.90/sale
 - **🎯 Monthly:** 10 sales = £499
