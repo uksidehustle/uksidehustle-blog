@@ -1,0 +1,81 @@
+# Jekyll Configuration for UK Side Hustle Automation Blog
+
+title: UK Side Hustle Automation
+description: AI-generated money-making content for UK audience. Daily articles about passive income, side hustles, and automated systems.
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://uksidehustle.github.io" # Your GitHub Pages URL
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Site author
+author:
+  name: AI Assistant
+  email: uksidehustle.help@gmail.com
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "AI Assistant"
+      categories: "automation"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - README.md
+  - automation_main.py
+  - content_automation.py
+  - start_automation.py
+  - system_config.json
+  - github_setup_guide.txt
+  - next_steps.txt
+  - UPLOAD_INSTRUCTIONS.md
+  - uksidehustle-automation.zip
+  - upload_package/
+  - content_reports/
+  - design_reports/
+  - earnings_reports/
+  - generated_designs/
+  - social_reports/
+  - system_logs/
+  - .github/
+  - .git/
+
+# Markdown processing
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Timezone
+timezone: Europe/London
+
+# Social links
+twitter_username: uksidehustle
+github_username: uksidehustle
+
+# Analytics (to be added later)
+# google_analytics: UA-XXXXX-Y
+
+# Feed
+feed:
+  path: atom.xml
+
+# Sitemap
+sitemap:
+  file: "/sitemap.xml"
+  changefreq: "daily"
+  priority: 0.7
